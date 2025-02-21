@@ -1,6 +1,6 @@
 <!-- Banner atau Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&width=435&lines=Hello,+I'm+Nadhif!;A+Passionate+Software+Developer;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&width=435&lines= Assalamualaikum Hello,+I'm+Nadhipp :O!;A+Passionate+Software+Developer;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,8 +16,8 @@
 
 ### 🔥 GitHub Stats 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NadhipGitHub&theme=radical&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=NadhipGitHub&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadhiipp&theme=radical&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nadhiipp&show_icons=true&theme=radical" width="400" />
 </p>
 
 ---
