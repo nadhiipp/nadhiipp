@@ -1,6 +1,6 @@
 <!-- Banner atau Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&width=435&lines= Assalamualaikum Hello,+I'm+Nadhipp :O!;A+Passionate+Software+Developer;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&width=435&lines=Assalamua'laikum Hello,+I'm+Nadhipp!;A+Passionate+Software+Developer;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 ---
