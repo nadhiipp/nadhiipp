@@ -61,9 +61,9 @@
 ---
 
 ### 🚀 Connect with Me  
-📩 **Email:** [YourEmail@example.com](mailto:muhammadnadiprahmatilah@gmail.com)  
-💼 **LinkedIn:** [Your LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/muhammad-nadhip-rahmatillah/))  
-📷 **Instagram:** [@yourusername]([https://instagram.com/yourusername](https://www.instagram.com/_mndhip/profilecard/?igsh=ZnF4cjNzZ200em54))  
+📩 **Email:** [mailto:muhammadnadiprahmatilah@gmail.com]
+💼 **LinkedIn:** [https://www.linkedin.com/in/muhammad-nadhip-rahmatillah/]  
+📷 **Instagram:** [https://www.instagram.com/_mndhip/profilecard/?igsh=ZnF4cjNzZ200em54]  
 
 ---
 
